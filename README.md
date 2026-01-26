@@ -7,7 +7,7 @@ Text embeddings have attracted growing interest due to their effectiveness acros
 ## 📆 Updates
 
 - [2026/1/26] We created the repository on GitHub.
-- [2025/11/26] We released the second version our survey on arXiv.
+- [2025/11/26] We released the second version of our survey on arXiv.
 - [2025/7/28] We released the first version of our survey on arXiv.
 
 ## 📋 Table of Contents
@@ -35,7 +35,7 @@ Text embedding applications can be broadly categorized into three types based on
 ## <a name="architecture">📘 The General Architecture of GPTE
 <img src="figure/architecture.jpg" alt="architecture" style="zoom:60%;" />
 
-The above frameworks illustrates the mainstream architecture for pretraining GPTE through a supervised approach. Typically, the textual word sequence is **fed into a well-established PLM backbone** (the key neural network is transformers), **generating hidden contextual representations** of words. Following this, **a pooling step aggregates these word-level hidden vectors** into a single vector, yielding the embedding form of the input text. Once the embedding network is ready, **the subsequent phase involves further optimization beyond the PLM’s initial capabilities**, for which **contrastive learning (CL)** is the widely-accepted supervision objective. This learning process can be **self-supervised, weakly-supervised, or high-quality supervised through bi-encoder semantic computation**.
+The above framework illustrates the mainstream architecture for pretraining GPTE through a supervised approach. Typically, the textual word sequence is **fed into a well-established PLM backbone** (the key neural network is transformers), **generating hidden contextual representations** of words. Following this, **a pooling step aggregates these word-level hidden vectors** into a single vector, yielding the embedding form of the input text. Once the embedding network is ready, **the subsequent phase involves further optimization beyond the PLM’s initial capabilities**, for which **contrastive learning (CL)** is the widely-accepted supervision objective. This learning process can be **self-supervised, weakly-supervised, or high-quality supervised through bi-encoder semantic computation**.
 
 
 ## <a name="models">📙 Representative open-source GPTE models
