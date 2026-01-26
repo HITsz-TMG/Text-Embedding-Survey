@@ -2,7 +2,7 @@
 
 Text embeddings have attracted growing interest due to their effectiveness across a wide range of natural language processing (NLP) tasks, including retrieval, classification, clustering, bitext mining, and summarization. With the emergence of pretrained language models (PLMs), general-purpose text embeddings (GPTE) have gained significant traction for their ability to produce rich, transferable representations. The general architecture of GPTE typically leverages PLMs to derive dense text representations, which are then optimized through contrastive learning on large-scale pairwise datasets. In this survey, we provide a comprehensive overview of GPTE in the era of PLMs, focusing on the roles PLMs play in driving its development. We first examine the fundamental architecture and describe the basic roles of PLMs in GPTE, i.e., embedding extraction, expressivity enhancement, training strategies, learning objectives, and data construction. We then describe advanced roles enabled by PLMs, including multilingual support, multimodal integration, code understanding, and scenario-specific adaptation. Finally, we highlight potential future research directions that move beyond traditional improvement goals, including ranking integration, safety considerations, bias mitigation, structural information incorporation, and the cognitive extension of embeddings. This survey aims to serve as a valuable reference for both newcomers and established researchers seeking to understand the current state and future potential of GPTE. 
 
-**Paper Link:** [https://arxiv.org/abs/2408.08921](https://arxiv.org/abs/2507.20783)
+**Paper Link:** [https://arxiv.org/abs/2507.20783](https://arxiv.org/abs/2507.20783)
 
 ## 📆 Updates
 
