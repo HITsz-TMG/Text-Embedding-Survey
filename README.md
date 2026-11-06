@@ -130,6 +130,7 @@ Comparisons of GPTE models with various PLM backbones, focusing on those of wide
 - Gecko: Versatile Text Embeddings Distilled from Large Language Models, arxiv, 2024, [[paper]](https://arxiv.org/pdf/2403.20327).
 - Improving Text Embeddings with Large Language Models, ACL, 2024, [[paper]](https://aclanthology.org/2024.acl-long.642.pdf). 
 - Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models, arxiv, 2025, [[paper]](https://arxiv.org/pdf/2506.05176). 
+- ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance, EMNLP, 2025, [[paper]](https://aclanthology.org/2025.emnlp-main.963.pdf). 
 - SKICSE: Sentence Knowable Information Prompted by LLMs Improves Contrastive Sentence Embeddings, NAACL, 2024, [[paper]](https://aclanthology.org/2024.naacl-short.13.pdf). 
 - SumCSE: Summary as a transformation for Contrastive Learning, ACL, 2024, [[paper]](https://aclanthology.org/2024.findings-naacl.227.pdf). 
 - Contrastive Learning of Sentence Embeddings from Scratch, EMNLP, 2023, [[paper]](https://aclanthology.org/2023.emnlp-main.238.pdf). 
