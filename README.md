@@ -69,6 +69,7 @@ Comparisons of GPTE models with various PLM backbones, focusing on those of wide
 - NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models, ICLR, 2025, [[paper]](https://openreview.net/pdf?id=lgsyLSsDRe).
 - Don’t Judge a Language Model by Its Last Layer: Contrastive Learning with Layer-Wise Attention Pooling, Coling, 2022, [[paper]](https://aclanthology.org/2022.coling-1.405.pdf).
 - Whitening sentence representations for better semantics and faster retrieval, arxiv, 2021, [[paper]](https://arxiv.org/pdf/2103.15316).
+- Correcting Mean Bias in Text Embeddings: A Refined Renormalization with Training-Free Improvements on MMTEB, arxiv, 2025, [[paper]](https://arxiv.org/pdf/2511.11041).
 
 #### Expressibility Improvement
 ##### Long-Context Modeling
@@ -276,6 +277,7 @@ Comparisons of GPTE models with various PLM backbones, focusing on those of wide
 - ALGEN: Few-shot Inversion Attacks on Textual Embeddings via Cross-Model Alignment and Generation, ACL, 2025, [[paper]](https://aclanthology.org/2025.acl-long.1185.pdf). 
 - Text Revealer: Private Text Reconstruction via Model Inversion Attacks against Transformers, arxiv, 2022, [[paper]](https://arxiv.org/pdf/2209.10505). 
 - Transferable Embedding Inversion Attack: Uncovering Privacy Risks in Text Embeddings without Model Queries, ACL, 2024, [[paper]](https://aclanthology.org/2024.acl-long.230.pdf). 
+- Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models, arxiv, 2025, [[paper]](https://arxiv.org/pdf/2501.18280). 
 
 #### Bias of GPTE
 
